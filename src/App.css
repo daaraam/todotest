@@ -1,0 +1,34 @@
+.layout {
+  margin: 0 auto;
+}
+
+.input-container {
+  background-color: lavenderblush;
+  height: 100px;
+}
+
+.input-form {
+  display: flex;
+  justify-content: center;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+}
+
+.todo-container {
+  background-color: white;
+  display: flex;
+  margin: 0 20px;
+}
+
+.todo-box {
+  border: 3px solid lavender;
+  width: 200px;
+  height: 150px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
